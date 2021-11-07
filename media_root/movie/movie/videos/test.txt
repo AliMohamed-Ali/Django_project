@@ -1,0 +1,6 @@
+tota&yousef123
+q#140936986
+
+
+DELETE from employee
+WHERE ssn = 669955
